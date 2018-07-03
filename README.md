@@ -1,5 +1,8 @@
+The main objective of the mobile store system is to manage the details of customers, stock, mobile, payment, sells. 
+
+
 1. Motivation and Overview  :
-The main objective of the mobile store system is to manage the details of customers, stock, mobile, payment, sells. It manages all the information about customers, brands, sells, customers. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the customer, stock, brands, mobile. It tracks all details about the mobile, payment and sells
+This system manages all the information about customers, brands, sells, customers. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the customer, stock, brands, mobile. It tracks all details about the mobile, payment and sells
 This project include following modules.
 •	Login 
 •	User Register
@@ -17,13 +20,13 @@ In short, the purpose of this SRS document is to provide a detailed overview of 
 •	The project could  be implement in an average sized organization. An average company will not be very on spending loads of on ledgers.
 •	There is no requirement to store book of stack to maintain a record or account.
 
-4.Broad Requirements:
- Minimum Hardware Requirements:
-•	Hard disk  : 2.21MB
-•	RAM  : 128MB
-Software Requirement:
-•	Operating System -  Windows , Unix.
-  IDE- NETBEANS
+4.  Broad Requirements:
+       Minimum Hardware Requirements:
+         •	Hard disk  : 2.21MB
+         •	RAM  : 128MB
+    Software Requirement:
+         •	Operating System -  Windows , Unix.
+           IDE- NETBEANS
 
 5. ProblemDefinition :The main objective of the mobile store system is to manage the details of customers, stock, mobile, payment, sells. It manages all the information about customers, brands, sells, customers. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the customer, stock, brands, mobile. It tracks all details about the mobile, payment and sells.
 After that we are going to merge our project with HTML to make it more attractive and presentable form .By doing so we are going to attract more customers and makes them understand our product more easily and in comfortable way. As the customer login our store they are able to known the features easily only by looking the page without using any hand written manual.
